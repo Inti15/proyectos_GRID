@@ -1,1 +1,13 @@
+nav{
+  padding: 3%;
+  background-color: #2C3E50;
+}
 
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #18BC9C;
+}
