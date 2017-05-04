@@ -11,6 +11,13 @@ body{
   vertical-align: middle;
 }
 
+.black{
+  color: black;
+}
+
+.dark{
+  color: #2C3E50;
+}
 .text-uppercase {
   text-transform: uppercase;
 }
@@ -19,11 +26,18 @@ body{
   font-weight: bold;
 }
 
-.titulosG{
-  font-size: 28px;
+.titulosXL{
+  font-size: 60px;
 }
 
-.fontPeq{
+.titulosXG{
+  font-size: 35px;
+}
+.titulosX{
+  font-size: 23px;
+}
+
+.fontS{
   font-size: 14px;
 }
 
