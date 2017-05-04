@@ -1,5 +1,5 @@
 nav{
-  padding: 3%;
+  padding: 2%;
   background-color: #2C3E50;
 }
 
@@ -10,4 +10,24 @@ a{
 
 a:hover{
   color: #18BC9C;
+}
+
+#portada{
+  background-color: #18BC9C;
+}
+
+hr{
+  max-width: 250px;
+  border: none;
+  border-top: 5px solid;
+}
+
+hr.star:after{
+  content: "\f005";
+  font-family: FontAwesome;
+  font-size: 30px;
+  display: inline-block;
+  position: relative;
+  top: -20px;
+  padding: 10px;
 }
