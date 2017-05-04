@@ -15,8 +15,20 @@ a:hover{
   color: #18BC9C;
 }
 
-#portada{
+.fondoV{
   background-color: #18BC9C;
+}
+
+.fondoW{
+  background-color: white;
+}
+
+p{
+  text-align: left;
+}
+
+.fS-20{
+  font-size: 20px;
 }
 
 hr{
@@ -36,11 +48,21 @@ hr.star:after{
   background-color: #18BC9C;
 }
 
-.fondoW{
-  background-color: white;
-}
-
 .imgPort{
   width: 100%;
   padding: 8%;
+}
+
+.btnV{
+  color: white;
+  padding: 6%;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+button.btnV:before{
+  content: "\f019";
+  font-family: FontAwesome;
+  display: inline-block;
+  position: relative;
 }
