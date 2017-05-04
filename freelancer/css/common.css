@@ -4,10 +4,30 @@
   padding: 0;
 }
 
+body{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  vertical-align: middle;
+}
+
 .text-uppercase {
   text-transform: uppercase;
 }
 
+.font-bold{
+  font-weight: bold;
+}
+
+.titulosG{
+  font-size: 28px;
+}
+
+.fontPeq{
+  font-size: 14px;
+}
+
+/*Estilos Grid system*/
 .container{
   width: 100%;
   /*max-width: 1200px;*/
