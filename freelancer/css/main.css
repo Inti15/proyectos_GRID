@@ -1,3 +1,6 @@
+header{
+  position: fixed;
+}
 nav{
   padding: 2%;
   background-color: #2C3E50;
@@ -35,4 +38,9 @@ hr.star:after{
 
 .fondoW{
   background-color: white;
+}
+
+.imgPort{
+  width: 100%;
+  padding: 8%;
 }
