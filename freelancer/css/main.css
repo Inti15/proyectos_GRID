@@ -66,3 +66,23 @@ button.btnV:before{
   display: inline-block;
   position: relative;
 }
+
+.form{
+  border: none;
+  border-top: 1px solid gray;
+}
+
+input{
+  width: 100%;
+}
+
+.mB{
+  border: none;
+  border-bottom: 1px solid gray;
+}
+
+.btnW{
+  color: white;
+  padding: 1%;
+  border-radius: 5px;
+}
